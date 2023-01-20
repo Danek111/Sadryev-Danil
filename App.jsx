@@ -1,5 +1,5 @@
 import React from "react";
-import Todo from './components/bydanek'
+import bydanek from './components/bydanek'
 
 function App() {
   return (
