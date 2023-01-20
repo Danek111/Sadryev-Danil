@@ -4,7 +4,7 @@ import bydanek from './components/bydanek'
 function App() {
   return (
     <div>
-      <Todo/>
+      <bydanek />
     </div>
   );
 }
